@@ -1,0 +1,32 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+  font-family: "Poppins";
+}
+body section {
+  background-color: white;
+  width: 300px;
+  margin: auto;
+  padding: 15px;
+  border-radius: 14px;
+  position: relative;
+  top: 70px;
+  box-shadow: 1px 2px 5px gray;
+}
+body section #img img {
+  width: 300px;
+  border-radius: 10px;
+}
+body section #text {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+body section #text h1 {
+  color: hsl(218, 44%, 22%);
+  font-size: 20px;
+}
+body section #text p {
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}/*# sourceMappingURL=style.css.map */
